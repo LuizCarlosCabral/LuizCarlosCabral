@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LuizCarlosCabral
-- 👀 I’m interested in  Front End e desenvolvimento de jogos
-- 🌱 I’m currently learning  Unreal Engine 5
-- 💞️ I’m looking to collaborate on  quaisquer áreas de programação
+- 👀 I’m interested in  Front End and Game Dev
+- 🌱 I’m currently learning Unity
+- 💞️ I’m looking to collaborate on any programming areas
 - 📫 How to reach me ... Loading...
 
 <!---
